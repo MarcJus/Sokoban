@@ -1,0 +1,1 @@
+fichiers.d: ../fichiers.c

@@ -1,0 +1,1 @@
+editeur.d: ../editeur.c
